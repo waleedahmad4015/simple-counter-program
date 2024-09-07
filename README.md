@@ -29,15 +29,15 @@ This is a basic web-based counter application built with HTML, CSS, and JavaScri
 3. Run the following command:
 
    ```
-   git clone https://github.com/yourusername/simple-counter.git
+   git clone https://github.com/waleedahmad4015/simple-counter-program.git
    ```
 
-   Replace `yourusername` with your actual GitHub username if you've hosted the project on GitHub.
+   Replace `waleedahmad4015` with your actual GitHub username if you've hosted the project on GitHub.
 
 4. Once the cloning is complete, navigate into the project directory:
 
    ```
-   cd simple-counter
+   cd simple-counter-program
    ```
 
 ## Usage
